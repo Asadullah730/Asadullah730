@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/Asadullah730/AsadUllahDev/main/assets/banner.png" width="100%" alt="Asad Ullah | Flutter Developer">
-
+<img src="https://raw.githubusercontent.com/Asadullah730/AsadUllah730/main/assets/banner.png" width="100%" height ="450" alt="Asad Ullah | Flutter Developer">
 <h1 align="center">Hi 👋, I'm Asad Ullah</h1>
 <h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast | Firebase & Supabase Specialist</h3>
 
@@ -20,7 +19,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,figma,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,postman,vscode,androidstudio" />
 </p>
 
 ---
@@ -64,6 +63,33 @@
 
 ---
 
+### 🚍 TransPro  
+🔹 A **transport management app** with:  
+✔ Real-time vehicle tracking  
+✔ Route optimization  
+✔ Digital ticketing system  
+✔ Notifications for arrivals & delays  
+
+---
+
+### 🚍 EasyDrive  
+🔹 A **Student Pick and Drop Service** with:    
+✔ Reister the Drivers and Students  
+✔ Suggest the Driver to the Student  
+✔ Integrate The Google map for tracking purpose
+✔ safety alerts  
+
+---
+
+### 🌍 Language Learning App  
+🔹 A **language learning platform** with:  
+✔ Daily lessons & vocabulary builder  
+✔ Flashcards with pronunciation  
+✔ Quizzes for progress tracking  
+✔ Category-based learning (grammar, vocab, phrases)  
+
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -71,13 +97,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah730&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Asadullah730&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asadullah730&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
