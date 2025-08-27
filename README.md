@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Asadullah730/AsadUllah730/main/assets/banner.png" width="100%" height ="450" alt="Asad Ullah | Flutter Developer">
+
 <h1 align="center">Hi 👋, I'm Asad Ullah</h1>
 <h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast | Firebase & Supabase Specialist</h3>
 
