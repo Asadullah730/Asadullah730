@@ -63,33 +63,6 @@
 
 ---
 
-### 🚍 TransPro  
-🔹 A **transport management app** with:  
-✔ Real-time vehicle tracking  
-✔ Route optimization  
-✔ Digital ticketing system  
-✔ Notifications for arrivals & delays  
-
----
-
-### 🚍 EasyDrive  
-🔹 A **Student Pick and Drop Service** with:    
-✔ Reister the Drivers and Students  
-✔ Suggest the Driver to the Student  
-✔ Integrate The Google map for tracking purpose
-✔ safety alerts  
-
----
-
-### 🌍 Language Learning App  
-🔹 A **language learning platform** with:  
-✔ Daily lessons & vocabulary builder  
-✔ Flashcards with pronunciation  
-✔ Quizzes for progress tracking  
-✔ Category-based learning (grammar, vocab, phrases)  
-
----
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
